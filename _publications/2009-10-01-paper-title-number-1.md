@@ -1,15 +1,9 @@
 ---
-title: "Paper Title Number 1"
+title: "Comments on "Preliminary estimation of the basic reproduction number of novel Coronavirus (2019-nCoV) in China, from 2019 to 2020: A data-driven Analysis in the early phase of the outbreak""
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+
+paperurl: 'hhttps://www.ijidonline.com/action/showPdf?pii=S1201-9712%2820%2930082-5'
+citation: 'Dhungana HN. Comments on "Preliminary estimation of the basic reproduction number of novel Coronavirus (2019-nCoV) in China, from 2019 to 2020: A data-driven Analysis in the early phase of the outbreak". Int J Infect Dis. 2020 May;94:72-73. doi: 10.1016/j.ijid.2020.02.024. Epub 2020 Feb 20. PMID: 32088335; PMCID: PMC7129612..'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
