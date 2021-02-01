@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Shor CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,18 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. (Mathematics & Statistics), University of Lucknow, 2009
+* M.Sc. (Statistics),CSJM,University 2014
+* Ph.D (Mathematical science), University of Technology Sydney, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* Tutor and PhD Student (2017-2020) at UTS, Sydney
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
+* Statistician cum Lecturer at Integral University (2013-2017)
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
