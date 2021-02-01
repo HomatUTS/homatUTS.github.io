@@ -14,8 +14,9 @@ The recent publications
 6. Singh C, Kawatra R, Gupta J, Awasthi V, Dungana H. Therapeutic role of Vitamin B12 in patients of chronic tinnitus: A pilot study. Noise & Health. 2016;18(81):93-97. doi:10.4103/1463-1741.178485. Q3
 7. Deepak, C., Jauhari N, J., Dhungana H, D. (2018). A Study on Utilization of Maternal Health Services and Factors Influencing the Utilization in Urban Slums of Lucknow. International Journal of Medicine and Public Health, 8(2), 77–81. https://doi.org/10.5530/ijmedph.2018.2.17
 8. Ahmad, S. A., Sarkar, P. K., Dhungana, H. N. (2015). A Study of Noise Development of Traffic Noise Annoyance Models. Journal of Transportation Technologies, 05(04), 185–190. https://doi.org/10.4236/jtts.2015.54017
-----------
+
 
 
 
  <p> To get my full list of publications please see <a href = "https://scholar.google.com/citations?user=gEnSbEEAAAAJ&hl=en" target="_blank">Google Scolar</a> page.
+-----------------------------------------------------------------------------------------
