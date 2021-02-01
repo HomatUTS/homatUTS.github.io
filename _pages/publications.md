@@ -16,4 +16,6 @@ The recent publications
 8. Ahmad, S. A., Sarkar, P. K., Dhungana, H. N. (2015). A Study of Noise Development of Traffic Noise Annoyance Models. Journal of Transportation Technologies, 05(04), 185–190. https://doi.org/10.4236/jtts.2015.54017
 ----------
 
- <p> To see my full list of publications please see <a href = "https://scholar.google.com/citations?user=gEnSbEEAAAAJ&hl=en" target="_blank">Google Scolar</a> 
+
+
+ <p> To get my full list of publications please see <a href = "https://scholar.google.com/citations?user=gEnSbEEAAAAJ&hl=en" target="_blank">Google Scolar</a> page.
