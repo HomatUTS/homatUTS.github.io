@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.Sc. (Mathematics & Statistics), University of Lucknow, 2009
-* M.Sc. (Statistics), CSJM University, India, 2014
+* M.Sc. (Statistics), CSJM University, India, 2011
 * Ph.D (Mathematical science), University of Technology Sydney, 2021 (expected)
 
 Work experience
