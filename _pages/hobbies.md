@@ -6,10 +6,10 @@ redirect_from:
   - /md/
   - /hobbies.html
 ---
-<h4>These are my Hobbies</h4>
+<h2>Folk are my Hobbies</h2>
 <ul>
-  <li>Travelling</li>
-  <li>Cooking</li>
+  <li><a href="#"/>Travelling</li>
+  <li><a href="#"/>Cooking</li>
   <li>Playing sports (football, cricket, etc.)</li>
   <li>Being involved with charities</li>
 </ul>
