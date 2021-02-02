@@ -1,9 +1,10 @@
 ---
-permalink: /markdown/
+permalink: /hobbies/
 title: "Markdown"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /hobbies.html
 ---
-kdnkll;gfdlgldfmgdfm,gfdg
+<h1>These are my Hobbies</h1>
+
