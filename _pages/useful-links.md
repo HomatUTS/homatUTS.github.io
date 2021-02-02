@@ -6,4 +6,4 @@ redirect_from:
   - /md/
   - /useful-links.html
 ---
-<h2>Updating soon</h2>
+<h2>Updating soon....</h2>
