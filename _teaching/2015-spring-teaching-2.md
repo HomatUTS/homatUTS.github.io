@@ -2,9 +2,9 @@
 title: "At University of Technology Sydney"
 collection: teaching
 type: "Tutorial"
-permalink: /teaching
+permalink: /teaching/
 venue: "School of Mathematical Science"
-date: 2017-11-28
+date: 2015-11-28
 location: "Sydney, Australia"
 ---
 
