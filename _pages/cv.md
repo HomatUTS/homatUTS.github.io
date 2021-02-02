@@ -29,7 +29,11 @@ Work experience
   
 Software/Skills
 ======
-R, SAS, SPSS, STATA, Excel
+  * R 
+  * SAS
+  * SPSS 
+  * STATA 
+  * Excel
 
 Publications
 ======
