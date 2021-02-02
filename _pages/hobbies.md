@@ -1,1 +1,16 @@
 
+---
+title: My Hobbies
+permalink: /hobbies/
+author_profile: true  
+---
+
+
+<!--       #E3FFDE;     <td class="rteright"><img width="130" height="130" alt="" src="manu.JPG" /></td>-->
+
+<!--<h2>LaTeX</h2>
+<a href="LaTeX_logo.png"><td class="rteright"><img class="floatright" width="140" height="55" src="LaTeX_logo.png" 
+alt="image of latex"></td></a>
+<p></p>-->
+
+To be updated soon....
