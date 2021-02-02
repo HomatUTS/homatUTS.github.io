@@ -1,7 +1,7 @@
 
 ---
-title: My Hobbies
-permalink: /hobbies/
+title:
+permalink: /hobbies/ 
 author_profile: true  
 ---
 
