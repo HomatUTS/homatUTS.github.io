@@ -27,6 +27,13 @@ Work experience
   * Data analysis, report writing, grant writing
   * Statistics lecturer  
   
+Awards and Scholarships
+======
+* A PhD scholarship with "Research Training Program Stipend", RTPS, awarded ( 2017-20121) to pursue a doctoral research at UTS, Austrlia.
+* Winner of Vice Chancellor conference fund, 2019 (first round), to present a paper at ISCB 40, Belgium,(July 2019).
+* Acheived a fully funded scholarship to attend a workshop at MATRIX, University of Melbourne,( July, 2019).
+* Acheived a US scholarship to attend a summer institute (SISMID) at University of Washington, Seattle, USA ( July 2018).
+ 
 Software/Skills
 ======
   * R 
